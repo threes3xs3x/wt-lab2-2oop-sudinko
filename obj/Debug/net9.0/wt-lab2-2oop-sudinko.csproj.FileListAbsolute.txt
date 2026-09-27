@@ -1,0 +1,14 @@
+C:\Users\1\wt-lab2-2oop-sudinko\bin\Debug\net9.0\wt-lab2-2oop-sudinko.exe
+C:\Users\1\wt-lab2-2oop-sudinko\bin\Debug\net9.0\wt-lab2-2oop-sudinko.deps.json
+C:\Users\1\wt-lab2-2oop-sudinko\bin\Debug\net9.0\wt-lab2-2oop-sudinko.runtimeconfig.json
+C:\Users\1\wt-lab2-2oop-sudinko\bin\Debug\net9.0\wt-lab2-2oop-sudinko.dll
+C:\Users\1\wt-lab2-2oop-sudinko\bin\Debug\net9.0\wt-lab2-2oop-sudinko.pdb
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\wt-lab2-2oop-sudinko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\wt-lab2-2oop-sudinko.AssemblyInfoInputs.cache
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\wt-lab2-2oop-sudinko.AssemblyInfo.cs
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\wt-lab2-2oop-sudinko.csproj.CoreCompileInputs.cache
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\wt-lab2-2oop-sudinko.dll
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\refint\wt-lab2-2oop-sudinko.dll
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\wt-lab2-2oop-sudinko.pdb
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\wt-lab2-2oop-sudinko.genruntimeconfig.cache
+C:\Users\1\wt-lab2-2oop-sudinko\obj\Debug\net9.0\ref\wt-lab2-2oop-sudinko.dll
